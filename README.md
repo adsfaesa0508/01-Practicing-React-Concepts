@@ -22,4 +22,4 @@ To use App, follow these steps:
 npm run dev
 ```
 
-Made with ♥️ by <a href="https://www.github.com/igorhlr" target="_blank">Igor</a>
+Made with ♥️ by <a href="https://www.github.com/" target="_blank">Me</a>
